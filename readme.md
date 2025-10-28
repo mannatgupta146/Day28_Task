@@ -1,4 +1,4 @@
-# Day 28 Task | Sheryians Coding School Cohort 2.0
+# Day 28 Task | Cohort 2.0
 
 This file contains all the JavaScript exercises and experiments I completed as part of **Day 28** in Sheryians Coding School Cohort 2.0. It covers concepts from basics to intermediate JavaScript, tested directly in the browser console.
 
